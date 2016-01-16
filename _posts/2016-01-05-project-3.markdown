@@ -1,0 +1,13 @@
+---
+title: The Lake
+subtitle: Photoshop
+layout: default
+modal-id: 3
+date: 2016-01-05
+img: project-10-full.jpg
+thumbnail: project-10.jpg
+alt: The Lake 
+category: Web Development
+description: Mating painting of the lake
+
+---

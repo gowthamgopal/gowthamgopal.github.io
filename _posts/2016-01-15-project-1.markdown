@@ -1,0 +1,13 @@
+---
+title: Johnny Depp
+subtitle: Illustrator Design
+layout: default
+modal-id: 1
+date: 2016-01-15
+img: project-9-full.jpg
+thumbnail: project-9.jpg
+alt: Johnny Depp 
+category: Web Development
+description: Hand drawn Johnny Depp in image tracing using adobe illustrator.
+
+---

@@ -1,0 +1,13 @@
+---
+title: House Design
+subtitle: Maya Exterior Design
+layout: default
+modal-id: 4
+date: 2016-01-01
+img: project-14-full.jpg
+thumbnail: project-14.jpg
+alt: House Design 
+category: Web Development
+description: Modeling and texturing using maya
+
+---

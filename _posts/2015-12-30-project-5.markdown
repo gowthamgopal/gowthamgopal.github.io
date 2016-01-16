@@ -1,0 +1,13 @@
+---
+title: Lionel Messi
+subtitle: Character Rigging
+layout: default
+modal-id: 5
+date: 2015-12-30
+img: project-8-full.jpg
+thumbnail: project-8.jpg
+alt: Lionel Messi 
+category: Web Development
+description: Character rigging using maya.
+
+---

@@ -1,0 +1,13 @@
+---
+title: Bengal Tiger
+subtitle: Quadruped Rigging
+layout: default
+modal-id: 6
+date: 2015-12-20
+img: project-7-full.jpg
+thumbnail: project-7.jpg
+alt: Bengal Tiger 
+category: Web Development
+description: Quadruped rigging using maya.
+
+---

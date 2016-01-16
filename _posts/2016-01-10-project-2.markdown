@@ -1,0 +1,13 @@
+---
+title: The Dog
+subtitle: Illustrator Design
+layout: default
+modal-id: 2
+date: 2016-01-10
+img: project-5-full.jpg
+thumbnail: project-5.jpg
+alt: The Dog 
+category: Web Development
+description: Hand drawn The Dog in image tracing using adobe illustrator.
+
+---
