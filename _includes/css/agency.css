@@ -866,3 +866,15 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+.portfolio-links a {
+    font-size: 19px;
+    margin: 20px;
+    color: #2925DA;
+    text-decoration: underline;
+ }
+
+.portfolio-links {
+    margin: 0 auto;
+    text-align: center;
+}
